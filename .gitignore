@@ -4,3 +4,11 @@
 *.txt
 *.py
 *.pdb
+.vs/vanity-eth-address-main/v17/ipch/AutoPCH/f1d03d559d943152/MAIN.ipch
+.vs/vanity-eth-address-main/v17/Browse.VC.opendb
+.vs/vanity-eth-address-main/v17/Browse.VC.db-wal
+.vs/vanity-eth-address-main/v17/Browse.VC.db-shm
+.vs/vanity-eth-address-main/v17/Browse.VC.db
+.vs/vanity-eth-address-main/FileContentIndex/b51e3855-3170-427d-a6ca-fe84e816b6af.vsidx
+.vs/slnx.sqlite
+.vs/ProjectSettings.json
